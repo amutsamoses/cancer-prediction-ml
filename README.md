@@ -50,7 +50,7 @@ The dataset consists of the following attributes:
   - smoothness: Local variation in radius lengths.
   - compactness: Perimeter^2 / area - 1.0.
   - concavity: Severity of concave portions of the contour.
-  - concave points: Number of concave portions of the contour.
+  - concave points: Number of concave portions of the contour..
   - symmetry: Symmetry of the cell.
   - fractal dimension: Coastline approximation - 1.
 
