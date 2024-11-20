@@ -1,7 +1,8 @@
 # cancer-prediction-ml
 
-# Breast Cancer Prediction Using Machine Learning
-
+# Breast Cancer Prediction Using ml(RandomForestClassifier)
+## Problem Statement
+The goal of this project is to develop a machine learning-based prediction system that classifies breast cancer as either malignant (cancerous) or benign (non-cancerous) based on various features computed from cell images. The system will take in a set of features derived from breast cancer cell nuclei and provide a prediction that can assist medical professionals in diagnosing breast cancer more efficiently.
 ## Project Overview
 This project is focused on predicting the diagnosis of breast cancer (malignant or benign) using machine learning models. We utilize various techniques for data preprocessing, exploration, visualization, model training, hyperparameter tuning, and deployment to create a machine learning solution for breast cancer prediction.
 
